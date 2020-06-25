@@ -1,2 +1,1 @@
-jaken_csv <- read.csv("/Users/ryotarohayashi/Desktop/R-statistics/jaken.csv")
-
+jaken_csv <- read.csv("/Users/ryotarohayashi/Desktop/R-statistics/jaken.csv", header = TRUE, skip = 0)
