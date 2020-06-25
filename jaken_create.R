@@ -1,1 +1,0 @@
-jaken_create <- read.csv("/Users/ryotarohayashi/Desktop/R-statistics/jaken_create.csv", header = TRUE, skip = 0)
