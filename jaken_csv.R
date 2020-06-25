@@ -1,1 +1,2 @@
-jaken_csv <- read.csv("/Users/ryotarohayashi/Desktop/statics_zemi/jaken.csv")
+jaken_csv <- read.csv("/Users/ryotarohayashi/Desktop/R-statistics/jaken.csv")
+
